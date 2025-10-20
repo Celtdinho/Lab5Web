@@ -118,19 +118,29 @@ Menampilkan "Hello World" di halaman dan di console
 ![Tampilan](Lab5,1.png)
 
 Tombol alert dan prompt bekerja
+
 ![Tampilan](Lab5,2.png)
 
+
 Fungsi salam() memunculkan pesan
+
 ![Tampilan](Lab5,3.png)
 
+
 Operasi aritmatika, kondisi if/else, dan switch tampil sesuai logika
+
 ![Tampilan](Lab5,4.png)
 
-Form validasi menolak input kosong
+
+Form validasi menolak input kosong 
+
 ![Tampilan](Lab5,7.png)
 
+
 Checkbox otomatis menghitung total harga
+
 ![Tampilan](Lab5,8.png)
+
 
 ## Kesimpulan
 JavaScript memungkinkan halaman web menjadi interaktif dan dinamis. Dengan JavaScript, kita dapat menampilkan pesan, memvalidasi form, menghitung nilai, dan memanipulasi elemen HTML secara langsung. Pemisahan file eksternal membuat kode lebih rapi dan mudah dikelola.
